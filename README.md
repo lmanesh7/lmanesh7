@@ -34,7 +34,6 @@ I believe in picking the right tool for the job, but here is where I feel most a
 ## ⚡ Unplugged (Beyond the Code)
 
 When I'm not deep in system design or debugging a CI/CD pipeline, you can find me:
-*   🏍️ **In the Garage:** Wrenching on and maintaining my Honda VTX 1800 cruiser.
 *   ⌚ **Tracking Time:** Growing my horology collection and syncing my Casio digital and atomic timepieces.
 *   🗣️ **Learning:** Practicing my casual conversational Japanese (*Konnichiwa!*).
 *   🍳 **In the Kitchen:** Experimenting with low-carb, sugar-free keto recipes (always looking for the perfect keto brownie).
